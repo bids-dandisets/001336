@@ -23,8 +23,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Johnson, Erik (2025) Neuromodulation in neural organoids with shell MEAs
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001336/draft
+citation: Johnson, Erik; Acha, Chris (2025) Neuromodulation in neural organoids with
+  shell MEAs (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001336/draft
 contributor:
 - affiliation: []
   email: ejohns24@gmail.com
@@ -32,6 +32,22 @@ contributor:
   name: Johnson, Erik
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- email: cacha1@jhu.edu
+  includeInCitation: true
+  name: Acha, Chris
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:DataCollector
+  - dcite:DataCurator
+  - dcite:DataManager
+  - dcite:FormalAnalysis
+  - dcite:Maintainer
+  - dcite:Methodology
+  - dcite:Producer
+  - dcite:Researcher
   schemaKey: Person
 dateCreated: '2025-02-14T21:58:04.437029+00:00'
 description: "Neural organoids (NOs) have emerged as important tissue engineering
