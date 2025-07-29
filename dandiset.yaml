@@ -34,8 +34,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 24740476328
-  numberOfFiles: 24
+  numberOfBytes: 34260214888
+  numberOfFiles: 31
   numberOfSubjects: 3
   schemaKey: AssetsSummary
   species:
@@ -73,6 +73,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 dateCreated: '2025-02-14T21:58:04.437029+00:00'
+datePublished: '2025-07-29T15:19:12.619289+00:00'
 description: "Neural organoids (NOs) have emerged as important tissue engineering
   models for brain sciences and biocomputing. Establishing reliable relationships
   between stimulation and recording traces of electrical activity is essential to
@@ -104,6 +105,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001336/versions/draft/assets/
 name: Neuromodulation in neural organoids with shell MEAs
 protocol: []
+publishedBy:
+  endDate: '2025-07-29T15:19:12.619289+00:00'
+  id: urn:uuid:e03611af-7661-4981-83d9-0ff1a05bfc4a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-29T15:19:12.619289+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:8179e8c4-216e-4afa-bca1-33333817e132
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
