@@ -49,7 +49,7 @@ assetsSummary:
   - Units
   - ProcessingModule
 citation: Johnson, Erik; Acha, Chris (2025) Neuromodulation in neural organoids with
-  shell MEAs (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001336/draft
+  shell MEAs (Version 0.250911.2228) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001336/0.250911.2228
 contributor:
 - affiliation: []
   email: ejohns24@gmail.com
@@ -93,8 +93,9 @@ description: "Neural organoids (NOs) have emerged as important tissue engineerin
   broad relevance to biomedical engineering and biocomputing. \nThis dataset includes
   recordings from 3 and 16-channel Shell MEAs from neural organoids, including baselines
   and in response to stimulation. "
+doi: 10.48324/dandi.001336/0.250911.2228
 ethicsApproval: []
-id: DANDI:001336/draft
+id: DANDI:001336/0.250911.2228
 identifier: DANDI:001336
 keywords:
 - neural organoid
@@ -104,7 +105,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001336/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001336/0.250911.2228/assets.yaml
 name: Neuromodulation in neural organoids with shell MEAs
 protocol: []
 publishedBy:
@@ -125,6 +126,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.9
 studyTarget:
 - Development of novel electrodes for in vitro systems.
-url: https://dandiarchive.org/dandiset/001336/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001336/0.250911.2228
+version: 0.250911.2228
 wasGeneratedBy: []
