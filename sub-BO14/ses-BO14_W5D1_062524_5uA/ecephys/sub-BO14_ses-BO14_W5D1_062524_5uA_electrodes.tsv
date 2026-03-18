@@ -1,0 +1,17 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	West shank	West
+e001	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	West shank	West
+e002	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	West shank	West
+e003	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	West shank	West
+e004	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	East shank	East
+e005	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	East shank	East
+e006	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	East shank	East
+e007	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	East shank	East
+e008	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	North shank	North
+e009	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	North shank	North
+e010	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	North shank	North
+e011	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	North shank	North
+e012	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	South shank	South
+e013	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	South shank	South
+e014	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	South shank	South
+e015	Intan 3D MEA	n/a	n/a	n/a	n/a	n/a	South shank	South

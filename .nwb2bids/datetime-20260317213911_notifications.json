@@ -1,0 +1,1769 @@
+[
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidParticipantSexBIDS",
+    "title": "Invalid participant sex (BIDS)",
+    "reason": "Participant sex is not one of the allowed patterns by BIDS.",
+    "solution": "Rename the subject sex to be one of the accepted values.",
+    "examples": [
+      "`male` -> `M`",
+      "`Female` -> `F`",
+      "`n/a` -> `U`",
+      "`hermaphrodite` -> `O`"
+    ],
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "BIDS"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/0a5/9ac/0a59ac6f-d869-43d8-a5eb-0e3d17922e96"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/afd/f18/afdf1832-5fc0-4346-95d7-902edae6b6d0"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5bc/42a/5bc42aed-432b-4f10-ba9f-1c7376d344de"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/536/fb5/536fb540-6d5a-4e07-81cd-fd898b7c86b7"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b66/4f0/b664f003-7b70-45a5-a3fa-6e28f510cf71"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/e09/f96/e09f9670-8629-48a8-86cc-ddbfed077555"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ebc/dc2/ebcdc263-cb4c-4429-93b5-eb7b9f38bf5a"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/4f6/11e/4f611e54-6ea2-4e03-a988-6acf68f238c3"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/a54/41c/a5441cfd-173d-486a-bbed-345dae5f1bdb"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ade/01e/ade01ec4-ac36-4522-9c8f-ea7474a0fecf"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/7e7/c6d/7e7c6dbe-637b-44c9-b718-93a92a6d84a6"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/487/c6f/487c6f3e-47ff-4da5-a71a-6d9996c6c880"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/38a/1f5/38a1f57b-5db6-4135-a7d1-4e0726fd5d7e"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/a3b/4a5/a3b4a5ee-4205-451b-8512-5e9a49ebc036"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/74b/59a/74b59adf-41b3-4b6f-b94a-35287d556756"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/c7b/f2f/c7bf2fb8-9101-4f38-947b-1aa13809ded2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/769/0eb/7690ebd2-2281-4728-bdfc-bbf299acf632"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/215/9b5/2159b52a-c6eb-4046-b676-52869725e1ea"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/0e0/4d6/0e04d6ca-3021-4181-b9ec-4e163e105803"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/7ed/5d3/7ed5d3cd-0af8-4a66-9dc4-e1dcf3b8eb51"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/8e5/2b6/8e52b616-e462-42fc-953f-925306ea1732"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/c9a/4f9/c9a4f9bf-a784-4af6-930f-e43dd3823805"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5b9/121/5b9121d6-b317-4b9e-a83f-70fdd7a380d7"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/d7e/568/d7e5687b-6ccd-4c02-8e1d-5c6998d80a52"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/31e/88b/31e88bfa-9ab4-4a3e-b5c7-ed1ea94014de"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/1c6/fb3/1c6fb3c5-6a0c-408c-9fbc-00ed62d5bd25"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/0fd/1dd/0fd1dd34-e5c1-44f6-8dd9-3e8744678ec3"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/4c2/ccf/4c2ccf7a-b4dd-4f97-a8a0-862051ea8983"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f98/6b6/f986b674-a518-42b3-b5d6-65415e1ba9b8"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/4c1/c15/4c1c15a4-66dc-4dd8-8b90-5041aa88a826"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f18/953/f1895393-db5c-4583-b3bb-77b302b5bfe0"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  }
+]

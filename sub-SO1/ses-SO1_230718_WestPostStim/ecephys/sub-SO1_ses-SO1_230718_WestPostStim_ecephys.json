@@ -1,0 +1,11 @@
+{
+    "InstitutionName": "Johns Hopkins University",
+    "PowerLineFrequency": "n/a",
+    "Manufacturer": "Intan",
+    "SamplingFrequency": 30000.0,
+    "RecordingDuration": 567.2147333333334,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "West"
+}
