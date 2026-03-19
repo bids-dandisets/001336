@@ -1,18 +1,18 @@
-session_id
-ses-SO1+230613+PostStim
-ses-SO1+230613+PreStim
-ses-SO1+230615+PostStim
-ses-SO1+230615+PreStim
-ses-SO1+230620+PostStim
-ses-SO1+230620+PreStim
-ses-SO1+230622+Full
-ses-SO1+230622+PostStim
-ses-SO1+230622+PreStim
-ses-SO1+230629+PostStim
-ses-SO1+230629+PreStim
-ses-SO1+230705+PostStim
-ses-SO1+230705+PreStim
-ses-SO1+230706+PostStim
-ses-SO1+230706+PreStim
-ses-SO1+230718+WestPostStim
-ses-SO1+230718+WestPreStim
+session_id	original_session_id
+ses-SO1+230613+PostStim	ses-SO1_230613_PostStim
+ses-SO1+230613+PreStim	ses-SO1_230613_PreStim
+ses-SO1+230615+PostStim	ses-SO1_230615_PostStim
+ses-SO1+230615+PreStim	ses-SO1_230615_PreStim
+ses-SO1+230620+PostStim	ses-SO1_230620_PostStim
+ses-SO1+230620+PreStim	ses-SO1_230620_PreStim
+ses-SO1+230622+Full	ses-SO1_230622_Full
+ses-SO1+230622+PostStim	ses-SO1_230622_PostStim
+ses-SO1+230622+PreStim	ses-SO1_230622_PreStim
+ses-SO1+230629+PostStim	ses-SO1_230629_PostStim
+ses-SO1+230629+PreStim	ses-SO1_230629_PreStim
+ses-SO1+230705+PostStim	ses-SO1_230705_PostStim
+ses-SO1+230705+PreStim	ses-SO1_230705_PreStim
+ses-SO1+230706+PostStim	ses-SO1_230706_PostStim
+ses-SO1+230706+PreStim	ses-SO1_230706_PreStim
+ses-SO1+230718+WestPostStim	ses-SO1_230718_WestPostStim
+ses-SO1+230718+WestPreStim	ses-SO1_230718_WestPreStim
